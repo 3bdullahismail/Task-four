@@ -1,0 +1,15 @@
+D:\C#\SearchTask\SearchTaskvowels\bin\Debug\net10.0\SearchTaskvowels..exe
+D:\C#\SearchTask\SearchTaskvowels\bin\Debug\net10.0\SearchTaskvowels..deps.json
+D:\C#\SearchTask\SearchTaskvowels\bin\Debug\net10.0\SearchTaskvowels..runtimeconfig.json
+D:\C#\SearchTask\SearchTaskvowels\bin\Debug\net10.0\SearchTaskvowels..dll
+D:\C#\SearchTask\SearchTaskvowels\bin\Debug\net10.0\SearchTaskvowels..pdb
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\SearchTaskvowels..GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\SearchTaskvowels..AssemblyInfoInputs.cache
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\SearchTaskvowels..AssemblyInfo.cs
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\SearchTaskvowels..csproj.CoreCompileInputs.cache
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\SearchTaskvowels..dll
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\refint\SearchTaskvowels..dll
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\SearchTaskvowels..pdb
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\SearchTaskvowels..genruntimeconfig.cache
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\ref\SearchTaskvowels..dll
+D:\C#\SearchTask\SearchTaskvowels\obj\Debug\net10.0\SearchTa.47A160EC.Up2Date

@@ -1,0 +1,15 @@
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTask.exe
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTask.deps.json
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTask.runtimeconfig.json
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTask.dll
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTask.pdb
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTask.AssemblyInfoInputs.cache
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTask.AssemblyInfo.cs
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTask.csproj.CoreCompileInputs.cache
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTask.dll
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\refint\SearchTask.dll
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTask.pdb
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTask.genruntimeconfig.cache
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\ref\SearchTask.dll
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTask.csproj.Up2Date

@@ -1,0 +1,15 @@
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTaskduplicated.exe
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTaskduplicated.deps.json
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTaskduplicated.runtimeconfig.json
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTaskduplicated.dll
+D:\C#\SearchTask\SearchTask\bin\Debug\net10.0\SearchTaskduplicated.pdb
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTaskduplicated.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTaskduplicated.AssemblyInfoInputs.cache
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTaskduplicated.AssemblyInfo.cs
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTaskduplicated.csproj.CoreCompileInputs.cache
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTaskduplicated.dll
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\refint\SearchTaskduplicated.dll
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTaskduplicated.pdb
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTaskduplicated.genruntimeconfig.cache
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\ref\SearchTaskduplicated.dll
+D:\C#\SearchTask\SearchTask\obj\Debug\net10.0\SearchTa.2DEF900C.Up2Date
